@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/FoodRecomm/Recipe-Recommendation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notebooks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notebooks/leadranking_h2o" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../LeadRanking_v0.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../leadranking_melt" vcs="Git" />
+  </component>
+</project>
