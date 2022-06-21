@@ -78,7 +78,7 @@ mkl-random==1.0.1
 msgpack==0.5.6
 multipledispatch==0.6.0
 networkx==1.11
-numpy==1.15.2
+numpy==1.22.0
 odo==0.5.1
 packaging==18.0
 pandas==0.22.0
